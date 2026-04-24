@@ -16,6 +16,5 @@ public class NewList {
 
         Object o= list1.get(0);
 
-
     }
 }
