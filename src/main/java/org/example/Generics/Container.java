@@ -1,4 +1,4 @@
-package Generics;
+package org.example.Generics;
 
 public interface Container<T>{
     void add(T item);

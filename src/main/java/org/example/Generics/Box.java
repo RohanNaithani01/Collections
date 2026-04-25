@@ -1,4 +1,4 @@
-package Generics;
+package org.example.Generics;
 
 public class Box<T> {
     private T value;

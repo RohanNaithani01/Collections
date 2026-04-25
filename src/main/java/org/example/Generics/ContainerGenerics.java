@@ -1,4 +1,4 @@
-package Generics;
+package org.example.Generics;
 
 public class ContainerGenerics<T> implements Container<T>{
 
